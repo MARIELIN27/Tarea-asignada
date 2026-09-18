@@ -1,13 +1,13 @@
 # Tarea-asignada
 ## practica de campo II
 Este cuaderno contiene material sobre la manera en que  las condiciones sociales y familiares y las practicas de la institución escolar influyen en las trayectorias escolares de los estudiantes
-*Cuestionario:Reproducción de Desigualdades
-*Estadísticas y Mecanismos de Reproducción de la Desigualdad
-*video:Cómo la escuela moderna moldea la desigualdad
-*Tarjetas:Sociología 
-*Infografía:Trayectorias escolares
-*Mapa conceptual:Pedagogía 
-*Resumen de audio:Althusser y el mito de la meritocracia
+* Cuestionario:Reproducción de Desigualdades
+* Estadísticas y Mecanismos de Reproducción de la Desigualdad
+* video:Cómo la escuela moderna moldea la desigualdad
+* Tarjetas:Sociología 
+* Infografía:Trayectorias escolares
+* Mapa conceptual:Pedagogía 
+* Resumen de audio:Althusser y el mito de la meritocracia
 
 
 
